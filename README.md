@@ -1,5 +1,5 @@
 This repository contains the source code for implementing Ensemble Riemannian Data Assimilation:
-Tamang, S. K., Ebtehaj, A., van Leeuwen, P. J., Zou, D., and Lerman, G.: Ensemble Riemannian data assimilation over the Wasserstein space, Nonlin. Processes Geophys., 28, 295–309, (https://doi.org/10.5194/npg-28-295-2021, 2021).
+Tamang, S. K., Ebtehaj, A., van Leeuwen, P. J., Zou, D., and Lerman, G.: Ensemble Riemannian data assimilation over the Wasserstein space, Nonlin. Processes Geophys., 28, 295–309, https://doi.org/10.5194/npg-28-295-2021, 2021.
 
 There are four included matlab code files:
 
